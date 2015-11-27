@@ -1,0 +1,45 @@
+{
+  "ProjectName": "TAB3333333000",
+  "ProjectGuid": "354a8011-4900-4b65-bc64-041627d44604",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TAB3333333000",
+  "DisplayName": "TAB3333333000",
+  "Author": "",
+  "Description": "TAB3333333000",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{d22a5f8d-34b3-426a-b729-8bc8329281ee}",
+  "WP8ProductID": "{9b09483c-e54b-401b-9bd6-651ccadfdcb4}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.TAB3333333000",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
